@@ -2,7 +2,7 @@ name: "Podcast Generator"
 author: "Ashok Kumar Bangaru"
 description: "Generates a feed fr a  podcast from a YAML file"
 runs:
-  using:  "docker"
+  using: "docker"
   image: "Dockerfile"
 branding: 
   icon: "git-branch"
